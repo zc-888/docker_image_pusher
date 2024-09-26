@@ -7,4 +7,4 @@ nginx
 #mysql
 #
 #alpine
-#redis
+redis
