@@ -12,9 +12,10 @@
 #centos
 #ubuntu
 #mongo:4.4.4
-mongo:8.0.0
-mongo:7.0.14
-mongo:6.0.17
-mongo:5.0.28
+#mongo:8.0.0
+#mongo:7.0.14
+#mongo:6.0.17
+#mongo:5.0.28
+mssql
 
 
