@@ -16,6 +16,7 @@
 #mongo:7.0.14
 #mongo:6.0.17
 #mongo:5.0.28
-mcr.microsoft.com/mssql/server:2019-latest
+#mcr.microsoft.com/mssql/server:2019-latest
+mcr.microsoft.com/mssql/server:2000-latest
 
 
