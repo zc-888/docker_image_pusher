@@ -8,5 +8,6 @@
 #mysql:5.7
 #
 #alpine
-redis
-centos
+#redis
+#centos
+mongodb
