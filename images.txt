@@ -10,4 +10,4 @@
 #alpine
 #redis
 #centos
-nacos
+ubuntu
