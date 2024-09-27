@@ -11,4 +11,4 @@
 #redis
 #centos
 #ubuntu
-mongodb
+mongo:4.4.4
