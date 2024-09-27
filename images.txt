@@ -21,6 +21,6 @@
 #mcr.microsoft.com/mssql/server:2019-latest
 #mcr.microsoft.com/mssql/server:2017-latest
 consul
-nacos/nacos-server:latest
-jaegertracing/all-in-one:latest
+#nacos/nacos-server:latest
+#jaegertracing/all-in-one:latest
 
