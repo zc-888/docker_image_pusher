@@ -10,4 +10,5 @@
 #alpine
 #redis
 #centos
-ubuntu
+#ubuntu
+mongodb
