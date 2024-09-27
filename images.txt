@@ -17,8 +17,10 @@
 #mongo:6.0.17
 #mongo:5.0.28
 #mcr.microsoft.com/mssql/server:2019-latest
-mcr.microsoft.com/mssql/server:2022-latest
-mcr.microsoft.com/mssql/server:2019-latest
-mcr.microsoft.com/mssql/server:2017-latest
-
+#mcr.microsoft.com/mssql/server:2022-latest
+#mcr.microsoft.com/mssql/server:2019-latest
+#mcr.microsoft.com/mssql/server:2017-latest
+consul
+nacos/nacos-server:latest
+jaegertracing/all-in-one:latest
 
