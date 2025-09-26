@@ -27,8 +27,6 @@ ubuntu
 #jenkins/jenkins
 #cleverest/toolbox
 #jayfong/yapi
-debian
-centos
 node
 python
 python:3.8
