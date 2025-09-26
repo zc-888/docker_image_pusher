@@ -7,8 +7,8 @@
 #mysql
 mysql:5.7
 #
-alpine
-redis
+#alpine
+#redis
 centos
 ubuntu
 mongo:4.4.4
