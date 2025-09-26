@@ -24,3 +24,6 @@ ubuntu
 #nacos/nacos-server:latest
 #jaegertracing/all-in-one:latest
 #williamyeh/wrk
+jenkins/jenkins
+cleverest/toolbox
+jayfong/yapi
