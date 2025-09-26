@@ -23,4 +23,3 @@ mongo:5.0.28
 #consul
 #nacos/nacos-server:latest
 #jaegertracing/all-in-one:latest
-
