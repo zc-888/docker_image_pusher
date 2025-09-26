@@ -24,6 +24,13 @@ ubuntu
 #nacos/nacos-server:latest
 #jaegertracing/all-in-one:latest
 #williamyeh/wrk
-jenkins/jenkins
-cleverest/toolbox
-jayfong/yapi
+#jenkins/jenkins
+#cleverest/toolbox
+#jayfong/yapi
+debian
+centos
+node
+python
+python:3.8
+openjdk
+postgres
