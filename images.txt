@@ -34,7 +34,7 @@ ubuntu
 #postgres
 registry.cn-beijing.aliyuncs.com/hyt1001/gitea20211104:v2
 registry.cn-hangzhou.aliyuncs.com/mindoc/mindoc:v0.12
-consul
+#consul  不行
 nacos/nacos-server:latest
 elasticsearch:7.10.1
 jaegertracing/all-in-one:latest
