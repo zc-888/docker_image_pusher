@@ -9,8 +9,8 @@
 #
 #alpine
 #redis
-centos
-ubuntu
+#centos
+#ubuntu
 mongo:4.4.4
 mongo:8.0.0
 mongo:7.0.14
