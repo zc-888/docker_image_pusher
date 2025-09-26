@@ -10,7 +10,7 @@
 #alpine
 #redis
 #centos
-#ubuntu
+ubuntu
 #mongo:4.4.4
 #mongo:8.0.0
 #mongo:7.0.14
@@ -23,4 +23,4 @@
 #consul
 #nacos/nacos-server:latest
 #jaegertracing/all-in-one:latest
-williamyeh/wrk
+#williamyeh/wrk
